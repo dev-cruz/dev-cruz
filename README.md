@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :computer: Backend Developer at **[@quero-edu](https://github.com/quero-edu)**.
+- :computer: Backend Developer.
 - :books: Graduating in Databases Technology.
 - :man_technologist: Expertise in Nodejs, Kafka & Microservices.
 - :brazil: From Brazil to the world!
