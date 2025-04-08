@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- :computer: Backend Developer.
-- :books: Graduating in Databases Technology.
+- :computer: Backend Developer at [Lia](https://lia.com.br/).
 - :man_technologist: Expertise in Nodejs, Kafka & Microservices.
 - :brazil: From Brazil to the world!
 
